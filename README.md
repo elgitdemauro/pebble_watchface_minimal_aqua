@@ -7,7 +7,7 @@ It shows a cross when you lose the connection with your phone
 
 [Pebble Store](http://apps.getpebble.com/en_US/application/5648bcae82267d12df000091)
 
-| App Info                            |
+| App Info         |                  |
 | ---------------- | :--------------- |
 | Sdk Version      | 3                |
 | Target Platforms | Basalt           |
